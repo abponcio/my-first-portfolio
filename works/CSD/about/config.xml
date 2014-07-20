@@ -1,0 +1,108 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <imageAngle>45</imageAngle>
+          <maxImageWidth>0</maxImageWidth>
+          <slideShow>0</slideShow>
+          <background>
+
+               <transparentBG>1</transparentBG>
+               <bgColor>16777215</bgColor>
+          </background>
+          <showReflections>1</showReflections>
+          <flipDuration>2</flipDuration>
+          <scrollbar>
+
+
+
+
+
+
+
+               <arrowsColor>16777215</arrowsColor>
+               <innerShadow>20</innerShadow>
+               <bgColor>0</bgColor>
+               <handleAlpha>75</handleAlpha>
+               <bgAlpha>40</bgAlpha>
+               <handleColor>16777215</handleColor>
+               <arrowsAlpha>75</arrowsAlpha>
+               <dropShadow>20</dropShadow>
+          </scrollbar>
+          <useScrollBar>1</useScrollBar>
+          <slideShowDelay>3</slideShowDelay>
+          <useHighlight>1</useHighlight>
+          <startPosition>center</startPosition>
+          <caption>
+
+
+
+
+
+
+
+               <bgAlpha>50</bgAlpha>
+               <textColor>16777215</textColor>
+               <bgColor>0</bgColor>
+               <shadowAlpha>40</shadowAlpha>
+               <multilingualFontSize>12</multilingualFontSize>
+               <frameColor>16777215</frameColor>
+               <frameAlpha>80</frameAlpha>
+               <multilingual>0</multilingual>
+          </caption>
+          <reflectionAlpha>80</reflectionAlpha>
+     </settings>
+     <items>
+          <item>
+
+
+
+
+               <thumb>about/images/t1.jpg</thumb>
+               <description>Aubrey Rose Quisumbing</description>
+               <source>about/images/1.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>about/images/t2.jpg</thumb>
+               <description>Reimark Mojica</description>
+               <source>about/images/2.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>about/images/t3.jpg</thumb>
+               <description>Jho Anne Delizo
+</description>
+               <source>about/images/3.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>about/images/t4.jpg</thumb>
+               <description>Anthony Bryle Poncio</description>
+               <source>about/images/4.jpg</source>
+          </item>
+     </items>
+     <galleryName>PhotoFlow Gallery</galleryName>
+</gallery>

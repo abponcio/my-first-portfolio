@@ -1,0 +1,143 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+
+
+
+
+
+          <background>
+
+               <transparentBG>1</transparentBG>
+               <bgColor>16777215</bgColor>
+          </background>
+          <reflectionAlpha>80</reflectionAlpha>
+          <showReflections>1</showReflections>
+          <preloader>
+
+
+
+
+
+
+               <stripesAlpha>75</stripesAlpha>
+               <bgColor>0</bgColor>
+               <bgAlpha>60</bgAlpha>
+               <barAlpha>50</barAlpha>
+               <innerShadow>20</innerShadow>
+               <barColor>0</barColor>
+               <dropShadow>30</dropShadow>
+          </preloader>
+          <thumbnail>
+
+
+               <height>120</height>
+               <distance>3</distance>
+               <width>160</width>
+          </thumbnail>
+          <zoom>1</zoom>
+          <image>
+
+
+
+               <thumbProportion>1</thumbProportion>
+               <bgColor>0</bgColor>
+               <scaleMode>fit</scaleMode>
+               <bgAlpha>50</bgAlpha>
+          </image>
+          <scrollSpeed>0.3</scrollSpeed>
+          <visibleMatrix>
+               <rows>2</rows>
+          </visibleMatrix>
+          <useHighlight>1</useHighlight>
+          <imageCaption>
+
+
+
+
+
+
+               <position>top</position>
+               <bgColor>0</bgColor>
+               <bgAlpha>30</bgAlpha>
+               <color>16777215</color>
+               <visibleMode>always</visibleMode>
+               <fontName>Arial</fontName>
+               <fontSize>11</fontSize>
+          </imageCaption>
+     </settings>
+     <items>
+          <item>
+
+
+
+
+               <thumb>facilities/images/t1.jpg</thumb>
+               <description>ICTC
+
+An Innovative building having 2 floors. It is where computer laboratories located.</description>
+               <source>facilities/images/1.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>facilities/images/t2.jpg</thumb>
+               <description>COS Building
+
+A  long hallway building includes the faculty room of the CSD professors. With COS lecture rooms for the CSD students</description>
+               <source>facilities/images/2.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>facilities/images/t3.jpg</thumb>
+               <description>inside the faculty room. </description>
+               <source>facilities/images/3.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>facilities/images/t4.jpg</thumb>
+               <description>Faculty area 
+
+Usually a place for student's consulation and the faculty's office. </description>
+               <source>facilities/images/4.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>facilities/images/t5.jpg</thumb>
+               <description>COS Lecture room
+
+Packed with built-in projectors white board and blackboard and wide space to handle a lot of students.</description>
+               <source>facilities/images/5.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>facilities/images/t6.jpg</thumb>
+               <description>ICTC(2nd Floor)
+
+Laboratory rooms are located here. including Database Lab and Mac Lab.</description>
+               <source>facilities/images/6.jpg</source>
+          </item>
+     </items>
+     <galleryName>3D Wall Gallery</galleryName>
+</gallery>

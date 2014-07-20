@@ -1,0 +1,92 @@
+<html>
+<head>
+	<title>FACILITY|Computer Studies Department</title>
+	
+<link rel="stylesheet" type="text/css" href="layout.css" />
+<script src="events.js">
+</script>
+
+
+</head>
+
+<body onload='showit()'>
+	<div id='wrapper'>
+		<div id='header'>
+		 <span onclick="top.location.href='index.html';" >CSD</span>
+		</div>
+
+		<div id='content'>
+		<h2> Our Facilities </h2>
+		<h5> Have a little peek </h5>
+		<hr id='headline' width='90%' />
+		<div id='fac'>
+		<script type="text/javascript" src="facilities/js/jquery.js"></script>
+<script type="text/javascript" src="facilities/js/swfobject.js"></script>
+<script type="text/javascript" src="facilities/js/flashgallery.js"></script>
+<script type="text/javascript">
+jQuery.flashgallery('facilities/gallery.swf', 'facilities/config.xml', { width: '800px', height: '380px', background: 'transparent' });
+</script></div>
+<div id='container'>
+<div id='more'> <span id='more' style=' cursor: pointer; text-decoration:underline;' onclick='details()'> see more  </span></div>
+<div id='more'> <span id='less' style=' cursor: pointer; text-decoration:underline; display:none;' onclick='ldetails()'> see less  </span></div>
+		 <div id='see' style='display: none; '>
+		 <p><b>COS BUILDING:</b><br/><br/>
+		<ul>
+		<li>COS Lecture Room : 10 </li>
+		<li>Faculty Room: 4  </li>
+		<li>Bathroom : 4 </li>
+		<li>Drinking Fountain: 1</li>
+		<li>All lecture rooms have whiteboard , blackboard and projector. </li>
+		<li>All rooms are airconditioned. Lecture rooms have ceiling fans. </li>
+		</ul>
+		</p>
+		
+		 <p><b>ICTC:</b><br/><br/>
+		<ul>
+		<li>Laboratory Room : 10 </li>
+		<li>Floors : 2 </li>
+		<li>Bathroom : 4 </li>
+		<li>Office : 2 </li>
+		<li>First floor are office for authorized personell only. Second Floor includes a small faculty office , MAC Laboratory, Database Laboratory and regular rooms </li>
+		<li>All rooms are airconditioned with split type units </li>
+		<li>PC units are on windows 7 OS and sufficient for a class. </li>
+		</ul>
+		</p>
+		</div>
+	</div>	
+		
+		<div id='footer'> 
+		<hr width='80%'>
+			Powered by <a href='about.html'> DePoQuiMo </a> 2012. <br/>
+			This site best viewed for Google Chrome.<br/>
+			All information given where based from <a href='www.dlsud.edu.ph'> DLSUD portal </a> .<br/>
+			No Copyright intended and used for educational purposes only.<br/>
+			Any inquiries and problems contact us <a href='contact.html'> here </a> .			
+		</div>
+		</div>
+		<div id='menu'>
+			<div id='menubar'><div style='float:left; font-size: 18pt;'> MAIN MENU </div><span id='down' onclick='hideit()'  > v </span><span id='up' onclick='showit()'  >^</span></div>
+			
+		<div id='choice'>	
+		<table id='mainmen' cellspacing='5px' cellpadding='1px'>
+			<tr>
+			<td rowspan='2' class='impo' id='cf' onclick="top.location.href='courses.html';" >Courses Offered</td> 
+				<td rowspan='2' class='single' id='mv' onclick="top.location.href='mission.html';" >Mission and Vission</td>			
+				<td class='smenu' id='faculty' onclick="top.location.href='faculty.html';"> Faculty</td> 
+				<td class='smenu' id='faci' onclick="top.location.href='facility.html';" >Facilities</td> 
+				
+				
+			</tr>
+				<td class='smenu' id='stud' onclick="top.location.href='student.html';">Students Corner</td> 
+				<td class='smenu' id='supp' onclick="top.location.href='support.html';" >Support</td> 
+			<tr>
+			
+			</tr>
+			
+		</table>
+	</div>
+	
+	</div>
+
+</body>
+</html>

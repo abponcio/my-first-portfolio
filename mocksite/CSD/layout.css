@@ -1,0 +1,255 @@
+
+body{
+background-color: #EBEBEB;
+color: #333;
+background-image: url(bgtry.png);
+background-repeat:repeat;
+margin:0px;
+padding: 0px;
+font-family: segoe UI;
+}
+
+h2{
+color:#333;
+}
+
+h5{
+color:#CC3300;
+}
+
+#headline{
+margin-left: 0px;
+}
+#header{
+position: fixed;
+top: 0px;
+left: 0px;
+height: 40px;
+width: 100%;
+background-color: #333;
+background-color: #660000;
+color: #EEE;
+padding: 5px;
+vertical-align: center;
+background: -webkit-linear-gradient(top, #6d0019 100%,#a90329 100%);
+-webkit-box-shadow: 0px 8px 11px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 8px 11px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 8px 11px rgba(50, 50, 50, 0.75);
+}
+
+
+
+
+#content{
+height: 100px;
+height: auto;
+background-color: #FFF;
+color: #333;
+padding:1em;
+margin-top: 50px;
+margin-bottom:50px;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+
+
+.impo{
+width: 250px;
+height: 210px;
+background-color: #CC0000;
+color: #EEE;
+vertical-align: bottom;
+text-align: left;
+background-image: url('icons/courses.png');
+background-repeat: no-repeat;
+background-position:center center;
+
+}
+
+.single{
+width: 400px;
+height: 200px;
+background-color: #660099;
+color: #EEE;
+vertical-align: bottom;
+text-align: left;
+background-image: url('icons/mission.png');
+background-repeat: no-repeat;
+background-position:center center;
+
+
+}
+
+
+.smenu{
+width: 200px;
+height: 100px;
+background-color: #CC3300;
+color: #EEE;
+vertical-align: bottom;
+text-align: left;
+
+
+}
+
+#faculty{
+background-image: url('icons/faculty.png');
+background-repeat: no-repeat;
+background-position:center center;
+
+}
+
+#faci{
+background-image: url('icons/faci.png');
+background-repeat: no-repeat;
+background-position:center center;
+
+}
+#stud{
+background-image: url('icons/stud.png');
+background-repeat: no-repeat;
+background-position:center center;
+
+}
+#supp{
+background-image: url('icons/support.png');
+background-repeat: no-repeat;
+background-position:center center;
+
+}
+
+#mainmen{
+margin-top: 1em;
+margin-left: 4em;
+margin-right: 1em;
+
+}
+#mainmen td{
+padding-right: 2em;
+text-align: left;
+vertical-align: center;
+
+
+}
+
+
+#down{
+margin-left: 97%;
+margin-right: 0px;
+margin-top: 0px;
+padding-left:3px;
+border-left-width: 1px;
+border-left-style: solid;
+border-left-color: #FFF;
+
+
+}
+
+#up{
+margin-left: 97%;
+margin-right: 0px;
+margin-top: 0px;
+padding-left:3px;
+border-left-width: 1px;
+border-left-style: solid;
+border-left-color: #FFF;
+display: none;
+}
+
+#down:hover{
+background-color: #909090;
+cursor: pointer;
+}
+
+.impo:hover{
+background-color: #CC0033;
+cursor: pointer;
+}
+.single:hover{
+background-color: #663399;
+cursor: pointer;
+}
+.smenu:hover{
+background-color: #CC6600;
+cursor: pointer;
+}
+#header span{
+font-size: 25pt;
+margin-left:1em;
+margin-top: 0px;
+border-right: 1px #FFF solid;
+padding-right: 5px;
+
+}
+
+#header span:hover{
+font-size: 25pt;
+margin-left:1em;
+margin-top: 0px;
+border-right: 1px #FFF solid;
+background-color: #CC0033;
+cursor: pointer;
+padding-right: 5x;
+}
+
+#up:hover{
+background-color: #909090;
+cursor: pointer;
+}
+#menubar{
+background-color: #333;
+background: -webkit-linear-gradient(top, #6d0019 100%,#a90329 100%);
+/**background: -webkit-linear-gradient(top, #aebcbf 0%,#6e7774 50%,#0a0e0a 51%,#0a0809 100%);*/
+padding: 1em;
+background-color: #660000;
+-webkit-box-shadow: 0px -8px 11px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px -8px 11px rgba(50, 50, 50, 0.75);
+box-shadow:         0px -8px 11px rgba(50, 50, 50, 0.75);
+ 
+ -moz-border-radius-topleft: 15px;
+    -moz-border-radius-topright: 15px;
+ -webkit-border-top-left-radius:15px;
+    -webkit-border-top-right-radius:15px;
+
+}
+
+#menu{
+position: fixed;
+bottom: 0px;
+left: 0px;
+height: 300px;
+width: 100%;
+background-color: #660000;
+background: -webkit-linear-gradient(top, #6d0019 51%,#a90329 100%); 
+/**background: -webkit-linear-gradient(top, #0e0e0e 0%,#7d7e7d 100%);*/
+color: #EEE;
+ -moz-border-radius-topleft: 15px;
+  
+    -moz-border-radius-topright: 15px;
+ 
+-webkit-border-top-left-radius:15px;
+    -webkit-border-top-right-radius:15px;;
+}
+
+.indent { 
+text-indent:40px; 
+
+}
+#footer{
+text-align: center;
+margin-top: 100px;
+font-size: 8pt;
+clear: both;
+}
+
+#featured
+{
+margin-left: 150px;
+}
+#fac
+{
+margin-left: 100px;
+}
+
+

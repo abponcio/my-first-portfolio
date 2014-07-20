@@ -1,0 +1,184 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+
+
+
+
+
+          <showReflections>1</showReflections>
+          <background>
+
+               <transparentBG>1</transparentBG>
+               <bgColor>16777215</bgColor>
+          </background>
+          <imageCaption>
+
+
+
+
+
+
+               <position>top</position>
+               <bgColor>0</bgColor>
+               <bgAlpha>30</bgAlpha>
+               <visibleMode>always</visibleMode>
+               <color>16777215</color>
+               <fontSize>11</fontSize>
+               <fontName>Arial</fontName>
+          </imageCaption>
+          <thumbnail>
+
+
+               <height>120</height>
+               <distance>3</distance>
+               <width>160</width>
+          </thumbnail>
+          <useHighlight>1</useHighlight>
+          <zoom>1</zoom>
+          <image>
+
+
+
+               <bgColor>0</bgColor>
+               <thumbProportion>1</thumbProportion>
+               <bgAlpha>50</bgAlpha>
+               <scaleMode>fit</scaleMode>
+          </image>
+          <preloader>
+
+
+
+
+
+
+               <innerShadow>20</innerShadow>
+               <bgColor>0</bgColor>
+               <bgAlpha>60</bgAlpha>
+               <stripesAlpha>75</stripesAlpha>
+               <barAlpha>50</barAlpha>
+               <barColor>0</barColor>
+               <dropShadow>30</dropShadow>
+          </preloader>
+          <visibleMatrix>
+               <rows>2</rows>
+          </visibleMatrix>
+          <reflectionAlpha>80</reflectionAlpha>
+          <scrollSpeed>0.3</scrollSpeed>
+     </settings>
+     <items>
+          <item>
+
+
+
+
+               <thumb>prof/images/t1.jpg</thumb>
+               <description>JOSEPH C. RIBO
+Bachelor of Science in Computer Science
+Master of Information Technology
+PSITE Member</description>
+               <source>prof/images/1.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>prof/images/t2.jpg</thumb>
+               <description>AMIEL D. DEL ROSARIO
+Bachelor of Science in Computer Engineering
+Master of Information Technology
+PSITE Member</description>
+               <source>prof/images/2.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>prof/images/t3.jpg</thumb>
+               <description>STEVENSON M. QUE
+Bachelor of Science in Computer Science
+Master of Science in Computer Science (on-going)</description>
+               <source>prof/images/3.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>prof/images/t4.jpg</thumb>
+               <description>MARIBEL F. SANDAGON
+Bachelor of Science in Computer Science
+Master of Information Technology</description>
+               <source>prof/images/4.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>prof/images/t5.jpg</thumb>
+               <description>Marilyn L. Bansagan 
+Bachelor of Science in Computer Science
+Master of Information Technology
+PSITE Member</description>
+               <source>prof/images/5.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>prof/images/t6.jpg</thumb>
+               <description>MARNELLI B. ERQUITA
+Bachelor of Science in Computer Science
+Master of Information Technology
+PSITE Member</description>
+               <source>prof/images/6.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>prof/images/t7.jpg</thumb>
+               <description>SHERYL D. KAMANTIGUE
+Bachelor of Science in Computer Science
+Master of Information Technology
+PSITE Member, CSP Member</description>
+               <source>prof/images/7.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>prof/images/t8.jpg</thumb>
+               <description>ROLANDO B. BARRAMEDA
+Bachelor of Science in Computer Science
+Master of Information Technology</description>
+               <source>prof/images/8.jpg</source>
+          </item>
+          <item>
+
+
+
+
+               <thumb>prof/images/t9.jpg</thumb>
+               <description>JENNYLINDE A. RODRIGUEZ
+Bachelor of Science in Computer Science
+Master of Information Technology 
+PSITE Member, CSP Member</description>
+               <source>prof/images/9.jpg</source>
+          </item>
+     </items>
+     <galleryName>3D Wall Gallery</galleryName>
+</gallery>

@@ -1,0 +1,139 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+
+
+          <thumbBar>
+
+
+               <position>bottom</position>
+               <scrollSpeed>10</scrollSpeed>
+               <useThumbBar>0</useThumbBar>
+          </thumbBar>
+          <background>
+
+               <transparentBG>1</transparentBG>
+               <bgColor>16777215</bgColor>
+          </background>
+          <image>
+
+
+
+
+               <align>center</align>
+               <useShadow>1</useShadow>
+               <cornerRadius>10</cornerRadius>
+               <scaleMode>fill</scaleMode>
+               <transitionEffect>fade</transitionEffect>
+          </image>
+          <slideshow>
+
+
+
+               <start>1</start>
+               <loop>1</loop>
+               <stopAutoOnClick>1</stopAutoOnClick>
+               <delay>5</delay>
+          </slideshow>
+          <thumbnail>
+
+
+
+
+
+
+
+
+
+
+
+
+               <useShadow>1</useShadow>
+               <alpha>100</alpha>
+               <size>30</size>
+               <color>3355443</color>
+               <fontName>Arial</fontName>
+               <fontSize>22</fontSize>
+               <fontColor>0</fontColor>
+               <colorOnClick>10066329</colorOnClick>
+               <style>gray</style>
+               <fontColorOnRollOver>16777215</fontColorOnRollOver>
+               <colorOnRollOver>6710886</colorOnRollOver>
+               <cornerRadius>10</cornerRadius>
+               <fontColorOnClick>16777215</fontColorOnClick>
+          </thumbnail>
+          <preloader>
+
+               <usePreloader>1</usePreloader>
+               <alpha>80</alpha>
+          </preloader>
+          <caption>
+
+
+
+
+
+
+               <position>top</position>
+               <bgColor>0</bgColor>
+               <color>16777215</color>
+               <fontSize>11</fontSize>
+               <fontName>Arial</fontName>
+               <bgAlpha>30</bgAlpha>
+               <visibleMode>onRollOver</visibleMode>
+          </caption>
+          <buttons>
+
+
+
+
+
+
+               <slideshowButton>1</slideshowButton>
+               <style>black</style>
+               <size>30</size>
+               <alpha>60</alpha>
+               <color>3355443</color>
+               <cornerRadius>10</cornerRadius>
+               <navigationButtons>1</navigationButtons>
+          </buttons>
+     </settings>
+     <items>
+          <item>
+
+
+
+               <description>IT Students listens on the speech of the Microsoft trainer in the Y4IT seminar</description>
+               <source>gallery/images/1.jpg</source>
+          </item>
+          <item>
+
+
+
+               <description>successfull Y4IT seminar </description>
+               <source>gallery/images/2.jpg</source>
+          </item>
+          <item>
+
+
+
+               <description>IT student coding their way through their lab activities</description>
+               <source>gallery/images/3.jpg</source>
+          </item>
+          <item>
+
+
+
+               <description>DB2 professor lookouts for the students to learn database</description>
+               <source>gallery/images/4.jpg</source>
+          </item>
+     </items>
+     <galleryName>Promo Gallery</galleryName>
+</gallery>

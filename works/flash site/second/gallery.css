@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.men1 {
+	font-family: "Segoe UI";
+	color: #FFF;
+	background-color: #333;
+}
+.mamalia {
+	font-family: "Segoe UI";
+	font-size: large;
+	font-weight: bold;
+	color: #333;
+}
+
+.homp {
+	position: fixed;
+	left: 20px;
+	top: 20px;
+}
+.footer {
+	position: fixed;
+	bottom: 1px;
+	background-color: #333;
+	color: #EEEEEE;
+	width: 100%;
+	font-family:"Segoe UI";
+	
+}
